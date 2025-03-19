@@ -19,6 +19,7 @@ void main() {
   print('hola ${1+1}');
   
 }
+/*
 void main1(){
   
   final String pokemon= 'Garcia';
@@ -52,3 +53,4 @@ void main1(){
   
   
 }
+*/
