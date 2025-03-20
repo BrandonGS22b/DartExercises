@@ -14,4 +14,9 @@ void main() {
   print(pokemon);
   print('Name: ${pokemon['name']}');
   print('Sprites: ${pokemon['sprites']}');
+
+
+//imprimimos datos de la lista
+  print('Front: ${pokemon['sprites'][1]}');
+  print('Back: ${pokemon['sprites'][2]}');
 }
