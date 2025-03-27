@@ -15,7 +15,7 @@ void main(){
   print('Set; ${reversedNubers.toSet()}');
   
   
-  final numbersGreaterThan5=numbers.where((num){
+  final numbersGreaterThan5=numbers.where((int num){
     return num > 5;
   });
   
